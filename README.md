@@ -1,7 +1,9 @@
 
 #### 10.24更新： 发现很多同学都在研究这个问题，现已把代码更新为可以直接运行的代码。
 
-由于数据版权问题，如需要数据集，请在issue或于[博文](https://blog.csdn.net/zhaohaibo_/article/details/81876044)留言。
+如果本文对您有用，可以给我一个star。
+
+数据集：链接: https://pan.baidu.com/s/1k8OIB6sBag43fvKtFb3vWQ  密码: tpov
 
 ----
 
