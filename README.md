@@ -95,11 +95,11 @@ Ranking of features names: ['wind_direction', 'pitch1_moto_tmp', 'wind_direction
 
 - 绘制交叉验证下的特征选择折线
 
-![](https://ws3.sinaimg.cn/large/006tNbRwly1fufag35d6qj30c008074l.jpg)
+![](https://img-blog.csdnimg.cn/20190515075559707.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3poYW9oYWlib18=,size_16,color_FFFFFF,t_70)
 
 - 选取得分前三的特征，绘制特征对比图
 
-![](https://ws3.sinaimg.cn/large/006tNbRwly1fufajmikijj30f00f0wfy.jpg)
+![](https://img-blog.csdnimg.cn/20190515075610380.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3poYW9oYWlib18=,size_16,color_FFFFFF,t_70)
 
 #### Step4 建立预测模型
 
@@ -120,7 +120,7 @@ Ranking of features names: ['wind_direction', 'pitch1_moto_tmp', 'wind_direction
 - **accuracy_score:0.9998005106926269（该结果可能与选取训练集的随机度不够高有关）**
 - 混淆矩阵：
 
-![](https://ws2.sinaimg.cn/large/006tNbRwly1fufaqc58i3j30c0080gls.jpg)
+![](https://img-blog.csdnimg.cn/20190515075621220.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3poYW9oYWlib18=,size_16,color_FFFFFF,t_70)
 
 - 评分
 
